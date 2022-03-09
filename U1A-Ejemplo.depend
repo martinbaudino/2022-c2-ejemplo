@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1645647937 source:c:\users\marti\onedrive\documentos\unlpam - fi\c2\2022\002 - u1a\2022-c2-ejemplo\paso2.c
+	<locale.h>
+	<stdio.h>
+	<math.h>
+
+1645648323 source:c:\users\marti\onedrive\documentos\unlpam - fi\c2\2022\002 - u1a\2022-c2-ejemplo\paso3.c
+	<locale.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1645709873 source:c:\users\marti\onedrive\documentos\unlpam - fi\c2\2022\002 - u1a\2022-c2-ejemplo\paso4.c
+	<locale.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+
+1645709853 source:c:\users\marti\onedrive\documentos\unlpam - fi\c2\2022\002 - u1a\2022-c2-ejemplo\paso5.c
+	<locale.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+
+1646600314 source:c:\users\marti\onedrive\documentos\unlpam - fi\c2\2022\002 - u1a\2022-c2-ejemplo\paso1.c
+	<locale.h>
+	<stdio.h>
+
+1646663654 source:c:\users\marti\onedrive\documentos\unlpam - fi\c2\2022\002 - u1a\2022-c2-ejemplo\paso6.c
+	<locale.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+

@@ -46,6 +46,9 @@
 		<Unit filename="Paso5.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="Paso6.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
